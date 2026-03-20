@@ -1,4 +1,4 @@
-# Future of Iran — Project Ideas
+# Project Ideas
 
 An open, bottom up repository of ideas to help build the future of Iran across tech, infrastructure, economy, and society.
 
